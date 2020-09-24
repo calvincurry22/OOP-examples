@@ -1,0 +1,13 @@
+C:\Users\calvi\workspace\csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.exe
+C:\Users\calvi\workspace\csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.deps.json
+C:\Users\calvi\workspace\csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.json
+C:\Users\calvi\workspace\csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.dev.json
+C:\Users\calvi\workspace\csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.dll
+C:\Users\calvi\workspace\csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.pdb
+C:\Users\calvi\workspace\csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.csprojAssemblyReference.cache
+C:\Users\calvi\workspace\csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfoInputs.cache
+C:\Users\calvi\workspace\csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfo.cs
+C:\Users\calvi\workspace\csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\calvi\workspace\csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.dll
+C:\Users\calvi\workspace\csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.pdb
+C:\Users\calvi\workspace\csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.genruntimeconfig.cache

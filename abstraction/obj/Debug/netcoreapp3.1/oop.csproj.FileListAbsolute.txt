@@ -1,0 +1,13 @@
+C:\Users\calvi\workspace\csharp\oop\bin\Debug\netcoreapp3.1\oop.exe
+C:\Users\calvi\workspace\csharp\oop\bin\Debug\netcoreapp3.1\oop.deps.json
+C:\Users\calvi\workspace\csharp\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.json
+C:\Users\calvi\workspace\csharp\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.dev.json
+C:\Users\calvi\workspace\csharp\oop\bin\Debug\netcoreapp3.1\oop.dll
+C:\Users\calvi\workspace\csharp\oop\bin\Debug\netcoreapp3.1\oop.pdb
+C:\Users\calvi\workspace\csharp\oop\obj\Debug\netcoreapp3.1\oop.csprojAssemblyReference.cache
+C:\Users\calvi\workspace\csharp\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfoInputs.cache
+C:\Users\calvi\workspace\csharp\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfo.cs
+C:\Users\calvi\workspace\csharp\oop\obj\Debug\netcoreapp3.1\oop.csproj.CoreCompileInputs.cache
+C:\Users\calvi\workspace\csharp\oop\obj\Debug\netcoreapp3.1\oop.dll
+C:\Users\calvi\workspace\csharp\oop\obj\Debug\netcoreapp3.1\oop.pdb
+C:\Users\calvi\workspace\csharp\oop\obj\Debug\netcoreapp3.1\oop.genruntimeconfig.cache
